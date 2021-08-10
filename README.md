@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/elizalex/Tracker.svg?branch=main)](https://travis-ci.com/elizalex/Tracker)
+
 # Tracker
 Консольное приложение для работы с заявками (учет, хранение, редактирование и т.д.).
 
